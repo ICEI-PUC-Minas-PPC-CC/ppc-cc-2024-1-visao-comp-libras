@@ -1,19 +1,17 @@
-# TÍTULO DO PROJETO
+# Reconhecimento de libras com Inteligência Artificial
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
+`Disciplina: Visão Computacional`
 `2021 - Semestre 1`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Giovana Gabrielle
+- Otávio Canedo
 
 ## Professor
 
-- Mestre Yoda
+- Will
 
 # Documentação
 
