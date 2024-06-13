@@ -2,7 +2,7 @@
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Visão Computacional`
-`2021 - Semestre 1`
+`2024 - Semestre 1`
 
 ## Integrantes
 
@@ -11,9 +11,9 @@
 
 ## Professor
 
-- Will
+- Will Ricardo 
 
-# Documentação
+# Código
 
 
 # Apresentação
