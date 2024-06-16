@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Reconhecimento de Libras com Inteligência Artificial
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Visão Computacional`
