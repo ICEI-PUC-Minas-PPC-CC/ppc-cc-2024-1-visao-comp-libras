@@ -29,4 +29,4 @@ A solução final é um sistema capaz de capturar vídeo da câmera, processar o
 
 ### Vídeo Demonstrativo
 
-[Assistir ao vídeo](https://www.youtube.com/watch?v=qHqyDe4WWoA){:target="_blank"}
+<a href="[URL_DO_VÍDEO](https://www.youtube.com/watch?v=qHqyDe4WWoA)" target="_blank" rel="noopener noreferrer">Assistir ao Vídeo</a>
