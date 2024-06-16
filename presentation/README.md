@@ -29,4 +29,4 @@ A solução final é um sistema capaz de capturar vídeo da câmera, processar o
 
 ### Vídeo Demonstrativo
 
-[Assistir ao vídeo](https://www.youtube.com/watch?v=qHqyDe4WWoA)
+[Assistir ao vídeo](https://www.youtube.com/watch?v=qHqyDe4WWoA){:target="_blank"}
